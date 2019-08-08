@@ -1,0 +1,1 @@
+# Repo for Goland OTUS course practicing (homework, main-project etc.)
