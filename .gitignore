@@ -14,5 +14,5 @@
 # MacOS stuff
 .DS_Store
 
-### VSCode configuration
+# VSCode configuration
 .vscode
