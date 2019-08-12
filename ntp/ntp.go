@@ -28,5 +28,4 @@ func NtpTime() {
 	}
 
 	fmt.Println(time)
-
 }
