@@ -1,8 +1,11 @@
 package ntp
 
-import "fmt"
-import "time"
-import "github.com/beevik/ntp"
+import (
+	"fmt"
+	"time"
+
+	"github.com/beevik/ntp"
+)
 
 func main() {
 	time, err := ntp.Time("time.google.com")
