@@ -2,6 +2,7 @@ package practice
 
 import (
 	"testing"
+
 	"github.com/amferiuss/otus-go-practice/ntp"
 	"github.com/amferiuss/otus-go-practice/shortener"
 )
@@ -12,6 +13,7 @@ func Test_NtpTime(t *testing.T) {
 	ntp.NtpTime()
 }
 
+// Week-1: shortener.
 func Test_Shortener(t *testing.T) {
 	shortnr := shortener.NewShortener()
 

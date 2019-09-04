@@ -1,5 +1,7 @@
 github.com/amferiuss/otus-go-practice/ntp v0.1.0 h1:KBy2nqiFDJZ5Bjh7X/0WoxIQW5VhX7v0Y9y7dEFSi/0=
 github.com/amferiuss/otus-go-practice/ntp v0.1.0/go.mod h1:k/BdCJFwqLp5BNyjc3G2HfUgB1kbRNE2xqZxySKQFwU=
+github.com/amferiuss/otus-go-practice/ntp v0.1.1 h1:ZTopeSReLqzvDfhYOF7at6LxIjLsz0P17bTcXZ2DDrk=
+github.com/amferiuss/otus-go-practice/ntp v0.1.1/go.mod h1:k/BdCJFwqLp5BNyjc3G2HfUgB1kbRNE2xqZxySKQFwU=
 github.com/amferiuss/otus-go-practice/shortener v0.1.0 h1:/sA84wKoRW9V8Ritblod0fQTfJHHiCAPSDB23rzZqXk=
 github.com/amferiuss/otus-go-practice/shortener v0.1.0/go.mod h1:mQDlOojQhiGmLxdZDwW3H3BSdFSovWTcZOp9/rDMm5Y=
 github.com/amferiuss/otus-go-practice/shortener v0.2.0 h1:Wn2KnFMAGz+t5X8u+0dZEQut/7LgVPMhg+pi8KLUMBI=
