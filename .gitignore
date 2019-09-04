@@ -16,3 +16,6 @@
 
 # VSCode configuration
 .vscode
+
+# IntelijIdea files
+.idea
